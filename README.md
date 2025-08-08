@@ -76,8 +76,9 @@ Deploy model as a web app.
 
 
 
-    Author: Jayasurya S
+  # Author: 
+  Jayasurya S
 
-    Aspiring data scientist
+  Aspiring data scientist
        
-    E-mail: suryaselva0727@gmail.com
+  E-mail: suryaselva0727@gmail.com
